@@ -1,4 +1,7 @@
 # GEO-242-Final-Project-The-Rise-and-Fall-of-Working-From-Home
+Proposal Slides
+- [Google Drive Proposal Slides](https://docs.google.com/presentation/d/1b-aBb-0NgPDPs2hdmt9DKxD30eVPrPK-Nw8GPObZI60/edit#slide=id.p)
+  
 Story map of our final project 
 ## The Rise and Fall of Working From Home Story Map
 - [Story Map](https://storymaps.arcgis.com/stories/3b9e29857a2d47a78d6f9908430a330c)
